@@ -1,0 +1,35 @@
+.container-main{
+    background-color: #f7f6f6;
+}
+
+.container-menu{
+    background-color: #d7ecbf;
+    border-top: 1px solid rgba(59, 58, 58, 0.432);
+}
+
+#headertxt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputCheck{
+    margin-right: 1%;
+}
+
+.labelCheck{
+    font-size: 18px;
+}
+
+.list-item {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+  }
+  
+  .list-item.selected {
+    background-color: #cce5ff; 
+
+  }
+
+ 
